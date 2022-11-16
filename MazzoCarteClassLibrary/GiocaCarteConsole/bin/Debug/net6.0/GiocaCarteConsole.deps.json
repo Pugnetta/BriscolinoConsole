@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GiocaCarteConsole/1.0.0": {
+        "dependencies": {
+          "MazzoCarteClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "GiocaCarteConsole.dll": {}
+        }
+      },
+      "MazzoCarteClassLibrary/1.0.0": {
+        "runtime": {
+          "MazzoCarteClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GiocaCarteConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MazzoCarteClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
